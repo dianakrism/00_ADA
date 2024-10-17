@@ -39,4 +39,4 @@ Berikut adalah deskripsi dari kolom-kolom yang terdapat dalam dataset:
 - **Scipy**: Untuk pengujian statistik dan analisis inferensial.
 - **Matplotlib**: Untuk visualisasi data dasar.
 - **Plotly Express**: Untuk visualisasi data yang interaktif.
--- **Tableau**: Untuk penyajian visualisasi dalam bentuk dashboard.
+- **Tableau**: Untuk penyajian visualisasi dalam bentuk dashboard.
